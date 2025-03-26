@@ -48,8 +48,3 @@ This project provides valuable insights into customer retention. Future improvem
 - Deploying the model as an API for real-time predictions.
 
 ---
-**GitHub Repository:** [Link to your GitHub project]
-
-**LinkedIn Project Description:** This project applies machine learning to predict customer churn using logistic regression. It includes data preprocessing, exploratory data analysis, feature engineering, and model evaluation. The results provide actionable insights for improving customer retention strategies.
-
-
